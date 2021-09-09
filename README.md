@@ -28,41 +28,41 @@ The log files used to generate the results depicted in [1] have been organized i
 
 ## Logs for the RDM SAS under different dynamic contexts
 
-Figures 7 and 8 correspond to the log files:
+Figure 6 correspond to the log files:
 <ul>
 <li>/DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json </li>
 <li>/DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json</li>
 </ul>
 
 
-Figures 9 and 10, correspond to the log files:
+Figure 10, correspond to the log files:
 <ul>
 <li>/DynamicContext_DC3/_logi_c3_s10_YesDNoJ.json</li>
 <li>/DynamicContext_DC3/_logi_c3_s10_YesDYesJ.json</li>
 </ul>
 
 
-Figures 11 and 13, correspond to the log files:
+Figure 8, correspond to the log files:
 <ul>
 <li>/DynamicContext_DC2/_logi_c2_s10_YesDNoJ.json</li>
 <li>/DynamicContext_DC2/_logi_c2_s10_YesDYesJ.json</li>
 </ul>
 
 
-Figures 12 and 14, correspond to the log files:
+Figure 9, correspond to the log files:
 <ul>
 <li>/DynamicContext_DC4/_logi_c4_s10_YesDNoJ.json</li>
 <li>/DynamicContext_DC4/_logi_c4_s10_YesDYesJ.json</li>
 </ul>
 
-Figures 15 and 16, correspond to the log files:
+Figures 11, correspond to the log files:
 <ul>
 <li>/DynamicContext_DC5/_logi_c5_s10_YesDNoJ.json</li>
 <li>/DynamicContext_DC5/_logi_c5_s10_YesDYesJ.json</li>
 </ul>
 
 
-Figures 17 and 18, correspond to the log files:
+Figure 12, correspond to the log files:
 <ul>
 <li>/DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json </li>
 <li>/DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json</li>
@@ -71,7 +71,7 @@ Figures 17 and 18, correspond to the log files:
 
 ## Logs for the RDM SAS under other SLAs
 
-Figures 22, 23 and 24 correspond to the log files:
+Figures 13, 14 and 15 correspond to the log files:
 <ul>
 <li>/OtherSLAs/logi_s100_(0.7_0.80_0.60).json </li>
 <li>/OtherSLAs/logi_s100_(0.8_0.95_0.85).json</li>
@@ -81,7 +81,7 @@ Figures 22, 23 and 24 correspond to the log files:
 
 ## Log for the RDM SAS under stable conditions
 
-Figures 5 and 6 correspond to the log file:
+Figure 5 correspond to the log file:
 <ul>
 <li>/_StableConditions/_logi_sc_s10_NoDNoJ.json </li>
 </ul>
