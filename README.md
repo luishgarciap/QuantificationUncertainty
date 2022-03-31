@@ -1,21 +1,20 @@
-# Quantification of uncertainty to support NFRs trade-offs for self-adaptation: a Partially Observable Markov Decision Process approach 
+# Quantification of uncertainty to support self-adaptation in partially-observable systems
 
 ## Abstract  
 
-Self-adaptive and autonomous systems (SASs) are expected to self-adapt based on incomplete information and unanticipated events. As such, the decision-making of a SAS is challenged by the underlying uncertainty. We focus on the uncertainty associated with the satisfaction of the quality goals, i.e. the non-functional requirements (NFRs) in a SAS, due to adaptation actions. Approaches that support the decision making of a SAS, often consider an idealized reality where (i) the system’s state is treated as fully observable by the monitoring infrastructure, and (ii) adaptation actions are assumed to have known, deterministic effects over the system. However, the system’s state may not be fully observable in practice, and adaptation actions may produce different unexpected effects due to uncertain factors. Further, adaptation actions may have different levels of desirabilities by the stakeholders over time. 
+Self-adaptive and autonomous systems (SASs) are expected to self-adapt based on incomplete information and the presence of unanticipated events. As such, the decision-making of a SAS is challenged by the underlying uncertainty. We focus on the uncertainty associated with the satisfaction of the quality goals, i.e. the non-functional requirements (NFRs) in a SAS, due to adaptation actions. Approaches that support the decision making of a SAS often consider an idealized reality where (i) the system’s state is treated as fully observable by the monitoring infrastructure, and (ii) adaptation actions are assumed to have known, deterministic effects over the system. However, the system’s state may not be fully observable in practice, and adaptation actions may produce different unexpected effects due to uncertain factors. 
 
-In this paper, we extend the standard specification of Partially Observable Markov Decision Processes (POMDPs) to develop a novel probabilistic approach to quantify over time the uncertainty associated with the effects on the system’s state of executing adaptation actions. Supported by the use of Bayesian inference, these probabilistic effects can be translated into satisfaction levels of the NFRs of a SAS, to therefore support decision making. Results show that our approach to quantify uncertainty is soundness and statistically significant. An online POMDP solver tool is used to identify the optimal policy measured against the quality goals of a SAS. A substantial case study and its analysis and validation through simulation have been presented to demonstrate our proposal’s utility.
+This paper develops a novel probabilistic approach to quantify the uncertainty associated with the effects on the system’s state of executing adaptation actions. Supported by Bayesian inference, these effects can be translated into satisfaction levels of the NFRs of a SAS to drive decision making. Evaluations have been performed for two substantial case studies from networking and Internet of Things (IoT) domains using two different POMDP solvers. Results show that our approach to quantifying uncertainty is statistically significant.
 
 
-Paper submitted to http://www.jot.fm/
+Paper submitted to https://dl.acm.org/journal/taas
 
-[1] Luis Garcia-Paucar, Nelly Bencomo. Quantification of uncertainty to support NFRs trade-offs for self-adaptation: a Partially Observable Markov Decision Process approach 
+[1] Luis Garcia-Paucar, Huma Samin, Nelly Bencomo. Quantification of uncertainty to support self-adaptation in partially-observable systems
 
 ## Acknowledgements 
 
 This work has been partially funded by the Leverhulme Trust Research Fellowship (Grant No. RF-2019-548/9) and the EPSRC
 Research Project Twenty20Insight (Grant No. EP/T017627/1).
-
 
 
 
