@@ -19,70 +19,64 @@ Research Project Twenty20Insight (Grant No. EP/T017627/1).
 
 
  ## Log files
-The log files used to generate the results depicted in [1] have been organized in three categories:
+The log files used to generate the results depicted in [1] have been organized in two categories:
 
-* Remote Data Mirroring (RDM) Self Adaptive System (SAS) under different Dynamic Contexts (folders DynamicContext_DC1 to DynamicContext_DC2)
-* RDM SAS under other Service Level Agreements (SLAs) (folder OtherSLAs)
-* RDM SAS under stable conditions (folder _StableConditions)
+* RDM SAS under stable conditions
+* Remote Data Mirroring (RDM) Self Adaptive System (SAS) under different Dynamic Contexts 
+
+
+## Log for the RDM SAS under stable conditions
+
+Figure 3a correspond to the log file:
+<ul>
+<li>/DESPOTLogs/DC1/_logi1000_v101b_c1_s10_NoDNoJ.json </li>
+</ul>
+
 
 ## Logs for the RDM SAS under different dynamic contexts
 
-Figure 6 correspond to the log files:
+
+Figure 3b correspond to the log files:
 <ul>
-<li>/DynamicContext_DC1/_logi_c1_s10_YesDNoJ.json </li>
-<li>/DynamicContext_DC1/_logi_c1_s10_YesDYesJ.json</li>
+<li>/DESPOTLogs/DC1/_logi1000_v101b_c1_s10_YesDNoJ.json </li>
+<li>/DESPOTLogs/DC1/_logi1000_v101b_c1_s10_YesDYesJ.json</li>
 </ul>
 
 
 Figure 10, correspond to the log files:
 <ul>
-<li>/DynamicContext_DC3/_logi_c3_s10_YesDNoJ.json</li>
-<li>/DynamicContext_DC3/_logi_c3_s10_YesDYesJ.json</li>
+<li>/DESPOTLogs/DC3/_logi1000_v101b_c3_s10_YesDNoJ.json</li>
+<li>/DESPOTLogs/DC3/_logi1000_v101b_c3_s10_YesDYesJ.json</li>
 </ul>
 
 
 Figure 8, correspond to the log files:
 <ul>
-<li>/DynamicContext_DC2/_logi_c2_s10_YesDNoJ.json</li>
-<li>/DynamicContext_DC2/_logi_c2_s10_YesDYesJ.json</li>
+<li>/DESPOTLogs/DC2/_logi1000_v101b_c2_s10_YesDNoJ.json</li>
+<li>/DESPOTLogs/DC2/_logi1000_v101b_c2_s10_YesDYesJ.json</li>
 </ul>
 
 
 Figure 9, correspond to the log files:
 <ul>
-<li>/DynamicContext_DC4/_logi_c4_s10_YesDNoJ.json</li>
-<li>/DynamicContext_DC4/_logi_c4_s10_YesDYesJ.json</li>
+<li>/DESPOTLogs/DC4/_logi1000_v101b_c4_s10_YesDNoJ.json</li>
+<li>/DESPOTLogs/DC4/_logi1000_v101b_c4_s10_YesDYesJ.json</li>
 </ul>
 
 Figures 11, correspond to the log files:
 <ul>
-<li>/DynamicContext_DC5/_logi_c5_s10_YesDNoJ.json</li>
-<li>/DynamicContext_DC5/_logi_c5_s10_YesDYesJ.json</li>
+<li>/DESPOTLogs/DC5/_logi1000_v101b_c5_s10_YesDNoJ.json</li>
+<li>/DESPOTLogs/DC5/_logi1000_v101b_c5_s10_YesDYesJ.json</li>
 </ul>
 
 
 Figure 12, correspond to the log files:
 <ul>
-<li>/DynamicContext_DC6/_logi_c6_s10_YesDNoJ.json </li>
-<li>/DynamicContext_DC6/_logi_c6_s10_YesDYesJ.json</li>
+<li>/DESPOTLogs/DC6/_logi1000_v101b_c6_s10_YesDNoJ.json </li>
+<li>/DESPOTLogs/DC6/_logi1000_v101b_c6_s10_YesDYesJ.json</li>
 </ul>
 
-
-## Logs for the RDM SAS under other SLAs
-
-Figures 13, 14 and 15 correspond to the log files:
-<ul>
-<li>/OtherSLAs/logi_s100_(0.7_0.80_0.60).json </li>
-<li>/OtherSLAs/logi_s100_(0.8_0.95_0.85).json</li>
-<li>/OtherSLAs/logi_s100_(0.8_0.99_0.85).json</li> 
-</ul>
  
 
-## Log for the RDM SAS under stable conditions
-
-Figure 5 correspond to the log file:
-<ul>
-<li>/_StableConditions/_logi_sc_s10_NoDNoJ.json </li>
-</ul>
 
 
